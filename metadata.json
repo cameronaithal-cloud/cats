@@ -1,0 +1,8 @@
+{
+  "name": "Whisker Wonders - Premium Cat Marketplace",
+  "description": "An elegant cat marketplace featuring AI-powered matchmaking to help you find your perfect feline companion.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
